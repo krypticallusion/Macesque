@@ -2,8 +2,7 @@
 Name=Macesque
 Comment=A "MacOS BigSur"-ish icon theme
 
-Inherits=breeze,elementary,deepin,Yaru,gnome
-
+Inherits=breeze,elementary,deepin,Yaru,Adwaita
 Example=directory-x-normal
 FollowsColorScheme=true
 
